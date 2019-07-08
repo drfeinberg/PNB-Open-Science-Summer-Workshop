@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 <center><H1>PNB 2019 Open Science Summer Workshop</H1></center>
 
