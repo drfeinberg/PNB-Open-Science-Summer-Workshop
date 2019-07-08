@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<center><H1>PNB 2019 Open Science Summer Workshop></H1></center>
+<center><H1>PNB 2019 Open Science Summer Workshop</H1></center>
 
 
 <li> <a href="https://github.com/drfeinberg/PNB-Open-Science-Summer-Workshop/blob/master/docs/01-Tri-Council-Open-Access.slides.html">01 - Tri-Council Mandate on Open Access</a></li>
